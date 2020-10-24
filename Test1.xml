@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NoteBook>
+  <Abonent>
+    <Id>1</Id>
+    <FirstName>Anna</FirstName>
+    <SureName>Petrov</SureName>
+    <YearOfBirth>1965</YearOfBirth>
+    <PhoneNumber>9012345678</PhoneNumber>
+    <AdditionalInfo>Goods-in</AdditionalInfo>
+    <Group>Manager</Group>
+  </Abonent>
+  <Abonent>
+    <Id>2</Id>
+    <FirstName>Ivan</FirstName>
+    <SureName>Ivanov</SureName>
+    <YearOfBirth>1985</YearOfBirth>
+    <PhoneNumber>1234567890</PhoneNumber>
+    <AdditionalInfo>Petrov</AdditionalInfo>
+    <Group>Employee</Group>
+  </Abonent>
+  <Abonent>
+    <Id>3</Id>
+    <FirstName>Ivan</FirstName>
+    <SureName>Petrov</SureName>
+    <YearOfBirth>1975</YearOfBirth>
+    <PhoneNumber>0123456789</PhoneNumber>
+    <AdditionalInfo>Sales</AdditionalInfo>
+    <Group>Manager</Group>
+  </Abonent>
+  <Abonent>
+    <Id>4</Id>
+    <FirstName>Sidor</FirstName>
+    <SureName>Ivanov</SureName>
+    <YearOfBirth>1965</YearOfBirth>
+    <PhoneNumber>9012345678</PhoneNumber>
+    <AdditionalInfo>Goods-in</AdditionalInfo>
+    <Group>Manager</Group>
+  </Abonent>
+</NoteBook>
